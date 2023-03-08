@@ -1,0 +1,11 @@
+.box{
+    background-color: rgb(255, 255, 255);
+height: 680px;
+width: 450px;
+border: 15px ;
+padding: 50px;
+margin: 20px;
+transform: translate(60%,3%);
+box-shadow: 0 2px 4px 0;
+padding-top: 1.5%;
+}
